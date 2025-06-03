@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Final project", "Part 3 and final\Final project.csproj", "{0D0E7724-D618-40DD-BF11-A5297FA27D2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KoAText.Tests", "KoAText.Tests\KoAText.Tests.csproj", "{3339AD33-9EE2-484E-BD3E-CDAC3B677211}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D0E7724-D618-40DD-BF11-A5297FA27D2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D0E7724-D618-40DD-BF11-A5297FA27D2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D0E7724-D618-40DD-BF11-A5297FA27D2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D0E7724-D618-40DD-BF11-A5297FA27D2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3339AD33-9EE2-484E-BD3E-CDAC3B677211}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3339AD33-9EE2-484E-BD3E-CDAC3B677211}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3339AD33-9EE2-484E-BD3E-CDAC3B677211}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3339AD33-9EE2-484E-BD3E-CDAC3B677211}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E979E22E-571E-478F-BBD1-4E383FFC1E44}
+	EndGlobalSection
+EndGlobal
